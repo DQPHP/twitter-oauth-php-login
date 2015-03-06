@@ -14,5 +14,5 @@
 * If everything worked correctly,you will be redirected to twitter.com
 * Fill in your account information, click ログイン and then you will be redirected to [http://yourhostname.com/twitter_login_path/callback.php](http://yourhostname.com/twitter_login_path/callback.php)
 * The twitter user's account information will be print out. You can use the user's info to do something like saving to database or anything else.
-* Go the [http://yourhostname.com/twitter_login_path/logout.php] to clear the session.
+* Go the [http://yourhostname.com/twitter_login_path/logout.php](http://yourhostname.com/twitter_login_path/callback.php) to clear the session.
 
