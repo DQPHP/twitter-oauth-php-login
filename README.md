@@ -16,4 +16,5 @@
 * The twitter user's account information will be print out. You can use the user's info to do something like saving to database or anything else.
 * Go the [http://yourhostname.com/twitter_login_path/logout.php](http://yourhostname.com/twitter_login_path/callback.php) to clear the session.
 
+## Example
 [Example Link](http://transjp.info/twitter_login/logout.php)
